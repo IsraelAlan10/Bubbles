@@ -9,4 +9,7 @@ Bubbles is a 2D videogame, with 5 levels, in wich you will inmerse yourself in t
   ALL CREDITS IN THE GAME
 /**************************/
 
+**LINK TO PLAY:**
+---------------------------
 **israde.itch.io/bubbles**
+---------------------------
